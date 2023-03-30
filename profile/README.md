@@ -1,4 +1,5 @@
-## Pörssäri is smart API to control devices based on Nord Pool Spot-prices.
+## Pörssäri client script repository.
+Pick your device to get a client script for your Pörssäri-device.
 
 <!--
 
