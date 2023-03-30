@@ -1,4 +1,4 @@
-## Pörssäri client script repository.
+## Pörssäri client script repository
 Pick your device to get a client script for your Pörssäri-device.
 
 <!--
